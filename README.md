@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kavisha007/DSA/tree/master/0011-container-with-most-water) |
+| [0443-string-compression](https://github.com/Kavisha007/DSA/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavisha007/DSA/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Kavisha007/DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
