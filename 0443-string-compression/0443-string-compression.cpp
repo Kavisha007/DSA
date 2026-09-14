@@ -1,26 +1,27 @@
 class Solution {
 public:
-    int compress(vector<char>& arr) {
-        string ans="";
-        int n=arr.size();
-        int i=0,j=0;
-        while(j<n){
-            if(arr[j]==arr[i]) j++;
-            else{
-                int len=j-i;
-                ans.push_back(arr[i]);
-                if(len !=1)  ans +=to_string(len);
-                i=j;
+    int compress(vector<char>& s) {
+        int n= s.size();
+        int idx=0;
+        
+        for(int i=0;i<n;i++){
+            char ch=s[i];
+            int count=0;
+            while(i<n && s[i] == ch){
+                count++;
+                i++;
             }
+            if(count==1)  s[idx++]=ch;
+            else{
+                s[idx++] = ch;
+                string str=to_string(count);
+                for(char dig : str){
+                    s[idx++] =  dig;
+                }
+            }
+            i--;
         }
-          int len=j-i;
-         ans.push_back(arr[i]);
-         if(len !=1) ans +=to_string(len);
-         
-          vector<char> ans2;
-          for(char ch:ans)  ans2.push_back
-          (ch);
-          arr=ans2;
-          return arr.size();
+        s.resize(idx);
+        return idx;
     }
 };
