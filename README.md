@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kavisha007/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kavisha007/DSA/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kavisha007/DSA/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
