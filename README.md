@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kavisha007/DSA/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavisha007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kavisha007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Kavisha007/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Kavisha007/DSA/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavisha007/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kavisha007/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kavisha007/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
