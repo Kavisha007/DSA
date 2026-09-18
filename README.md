@@ -64,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kavisha007/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kavisha007/DSA/tree/master/0066-plus-one) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kavisha007/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
