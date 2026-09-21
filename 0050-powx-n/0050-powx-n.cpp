@@ -1,6 +1,16 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-      return pow(x,n);
+    double power(double a, long long b) {
+       if(b==0) return 1;
+     double ans=power(a,b/2);
+    return(b%2==0) ? ans*ans : ans*ans*a;
+    }
+
+    double myPow(double a, int b) {
+        bool flag=(b>=0); // flag is true if b id positive
+        long long b2=b;
+       double ans= power(a,abs(b2));
+       if (flag==false) ans=1/ans;
+       return ans;
     }
 };
