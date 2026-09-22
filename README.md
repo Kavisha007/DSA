@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kavisha007/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kavisha007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kavisha007/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Kavisha007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavisha007/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Kavisha007/DSA/tree/master/0704-binary-search) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kavisha007/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
