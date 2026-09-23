@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kavisha007/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Kavisha007/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kavisha007/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kavisha007/DSA/tree/master/0189-rotate-array) |
