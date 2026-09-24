@@ -14,5 +14,6 @@ public:
         }
 
         return original == reversed;
+        // done once again
     }
 };
