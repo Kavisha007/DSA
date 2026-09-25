@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kavisha007/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kavisha007/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Kavisha007/DSA/tree/master/0443-string-compression) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Kavisha007/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -88,9 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
