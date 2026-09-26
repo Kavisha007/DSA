@@ -4,7 +4,7 @@ public:
                   vector<string>& ans) {
         if (closing == n) {
             ans.push_back(s);
-            return;
+            return; 
         }
         if (opening < n)
             generate(s + "(", opening + 1, closing, n, ans);
@@ -14,6 +14,6 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
         generate("", 0, 0, n, ans);
-        return ans;
+        return ans;  // imp
     }
 };
