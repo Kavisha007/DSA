@@ -13,6 +13,6 @@ void powerSet(int idx , vector<int> ans, vector<int>& arr , vector<vector<int>> 
         vector<int> ans;
         vector<vector<int>> finalAns;
         powerSet(0,ans,arr,finalAns);
-        return finalAns;
+        return finalAns; // donee
     }
 };
