@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& arr,int target) {
+    vector<int> searchRange(vector<int>& arr,int target) { 
+        // revise it
         int n = arr.size();
         vector<int> ans(2,-1);
         int lo =0 , hi=n-1 ;
