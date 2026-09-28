@@ -1,5 +1,6 @@
 class Solution {
 public:
+/// revise
     bool notValid(char ch){
         if(ch>=65 and ch<=90) return false;
         else if(ch>=97 and ch<=122)  return false;
