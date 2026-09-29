@@ -12,6 +12,6 @@ public:
     //    double ans= power(a,abs(b2));
     //    if (flag==false) ans=1/ans;
     //    return ans;
-    return pow(a,b);
+    return pow(a,b); // submit
     }
 };
