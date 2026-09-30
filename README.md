@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kavisha007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavisha007/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Kavisha007/DSA/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavisha007/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kavisha007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavisha007/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Kavisha007/DSA/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kavisha007/DSA/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kavisha007/DSA/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
