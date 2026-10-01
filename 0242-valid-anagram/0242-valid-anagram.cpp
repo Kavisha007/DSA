@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(),s.end());
+        sort(s.begin(),s.end()); // revise
         sort(t.begin(),t.end());
         int m=s.length();
         int n=t.length();
