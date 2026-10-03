@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kavisha007/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Kavisha007/DSA/tree/master/0881-boats-to-save-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavisha007/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kavisha007/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kavisha007/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Kavisha007/DSA/tree/master/0242-valid-anagram) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Kavisha007/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
