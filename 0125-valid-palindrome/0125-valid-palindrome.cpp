@@ -2,8 +2,8 @@ class Solution {
 public:
 /// revise
     bool notValid(char ch){
-        if(ch>=65 and ch<=90) return false;
-        else if(ch>=97 and ch<=122)  return false;
+        if(ch>=65 and ch<=90) return false;  //revise
+            else if(ch>=97 and ch<=122)  return false;
         else if(ch>=48 and ch<=57)   return false;
         else  return true;
     }
