@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numRescueBoats(vector<int>& arr, int limit) { // revise
-        int n=arr.size();
+        int n=arr.size();  // revise
         sort(arr.begin(),arr.end());
         int boat=0;
         // Two pointer approach
