@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kavisha007/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kavisha007/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kavisha007/DSA/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Kavisha007/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Kavisha007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavisha007/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kavisha007/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kavisha007/DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Kavisha007/DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Kavisha007/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
