@@ -2,7 +2,7 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& arr) {
         // vector<vector<int>>  copy = arr;
-        int m =arr.size() , n=arr[0].size(); // revuse
+        int m =arr.size() , n=arr[0].size(); // revise
 
         // Method 1
         // for(int i=0;i<m;i++){
