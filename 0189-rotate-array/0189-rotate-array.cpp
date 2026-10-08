@@ -1,7 +1,7 @@
 class Solution {
 public:
    void reverse(vector<int>& arr , int i , int j){
-    while(i<j){
+    while(i<j){ // revise
         swap(arr[i], arr[j]);
         i++;
         j--;
