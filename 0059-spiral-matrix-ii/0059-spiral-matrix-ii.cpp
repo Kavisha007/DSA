@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        // revise
+        // revise itt
         vector<vector<int>> ans(n, vector<int>(n));
 
         int minr = 0, maxr = n - 1;
