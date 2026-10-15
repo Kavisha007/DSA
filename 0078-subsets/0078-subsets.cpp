@@ -1,4 +1,4 @@
-class Solution {
+class Solution { // revise
 public:
 void powerSet(int idx , vector<int> ans, vector<int>& arr , vector<vector<int>> &finalAns ){
     if(idx== arr.size()){  // i have a subset
