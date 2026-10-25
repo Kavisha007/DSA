@@ -1,7 +1,7 @@
 class Solution {
   public:
   int count ; // extra
-  void merge(vector<int> &a , vector<int> &b, vector<int> &c){
+  void merge(vector<int> &a , vector<int> &b, vector<int> &c){ // revise
       int i=0,j=0,k=0;
       while(i<a.size() && j<b.size()){
           if(a[i]>b[j]) {
