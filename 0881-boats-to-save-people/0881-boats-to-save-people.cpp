@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int numRescueBoats(vector<int>& arr, int limit) { // revise
+    int numRescueBoats(vector<int>& arr, int limit) { // revise IT
         int n=arr.size();  // revise
         sort(arr.begin(),arr.end());
         int boat=0;
