@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findIntersectionValues(vector<int>& a, vector<int>& b) {
-        sort(a.begin(), a.end()); /// revise
+        sort(a.begin(), a.end()); /// revise it
         sort(b.begin(), b.end());
         int m=a.size();
         int n=b.size();
