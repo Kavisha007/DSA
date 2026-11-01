@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> generate(int m) {
-     vector<vector<int>> ans; // revise
+     vector<vector<int>> ans; // revise it
      for(int i=1;i<=m;i++){
         ans.push_back(vector<int>(i,1));
      }
