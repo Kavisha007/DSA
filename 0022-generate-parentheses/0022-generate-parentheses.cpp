@@ -1,7 +1,7 @@
 class Solution {
 public:
     void generate(string s, int opening, int closing, int n,
-                  vector<string>& ans) {
+                  vector<string>& ans) { // revise it 
         if (closing == n) {
             ans.push_back(s);
             return; 
