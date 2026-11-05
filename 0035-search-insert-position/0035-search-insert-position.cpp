@@ -1,7 +1,7 @@
 class Solution {
 public:
     int searchInsert(vector<int>& arr, int target) {
-                int n = arr.size(); // revise it
+                int n = arr.size(); // revise itt
         int lo =0 , hi=n-1;
         while(lo<=hi){
         int mid= (lo+hi)/2;
