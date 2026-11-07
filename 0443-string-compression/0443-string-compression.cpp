@@ -1,7 +1,7 @@
 class Solution {
 public:
     int compress(vector<char>& s) {
-        int n= s.size(); //  revoise it bro
+        int n= s.size(); // revise it
         int idx=0;
         
         for(int i=0;i<n;i++){
