@@ -1,7 +1,6 @@
-
 class Solution {
 public:
-    void sortColors(vector<int>& nums) {
+    void sortColors(vector<int>& nums) { // revise 
 
         int low = 0;
         int mid = 0;
