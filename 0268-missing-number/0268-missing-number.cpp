@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) { // REVISE IT
+    int missingNumber(vector<int>& nums) { // REVISE I
 
         int n = nums.size();
 
