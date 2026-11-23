@@ -1,4 +1,4 @@
-class Solution { // revise it
+class Solution { // revise itt
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> ans;
